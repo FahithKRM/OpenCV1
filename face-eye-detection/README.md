@@ -31,7 +31,7 @@ Before running this project, ensure you have the following installed:
 ## Installation and Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/YourGitHubUsername/face-eye-detection.git  
+   https://github.com/FahithKRM/OpenCV1/tree/main/face-eye-detection  
     ```
 2. Navigate to the project folder:  
    ```bash  
